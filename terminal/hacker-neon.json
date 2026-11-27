@@ -1,0 +1,37 @@
+{
+    "defaults": {
+        "colorScheme": "Hacker Neon",
+        "cursorColor": "#39FF14",
+        "cursorShape": "bar",
+        "font": {
+            "face": "Cascadia Mono, MesloLGM Nerd Font",
+            "size": 12
+        },
+        "opacity": 78,
+        "padding": "10, 8, 10, 8",
+        "useAcrylic": false
+    },
+    "scheme": {
+        "name": "Hacker Neon",
+        "background": "#030504",
+        "foreground": "#E6FFF2",
+        "cursorColor": "#39FF14",
+        "selectionBackground": "#164A2D",
+        "black": "#000000",
+        "red": "#FF1744",
+        "green": "#00FF66",
+        "yellow": "#FFD600",
+        "blue": "#00B0FF",
+        "purple": "#D500F9",
+        "cyan": "#00FFFF",
+        "white": "#E8F5E9",
+        "brightBlack": "#4B5D50",
+        "brightRed": "#FF5252",
+        "brightGreen": "#39FF14",
+        "brightYellow": "#FFFF00",
+        "brightBlue": "#40C4FF",
+        "brightPurple": "#EA80FC",
+        "brightCyan": "#18FFFF",
+        "brightWhite": "#FFFFFF"
+    }
+}
